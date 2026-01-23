@@ -4,5 +4,9 @@
   "author": {
     "name": "Affaan Mustafa",
     "email": "affaan@example.com"
-  }
+  },
+  "agents": "./agents",
+  "commands": "./commands",
+  "skills": "./skills",
+  "hooks": "./hooks/hooks.json"
 }
